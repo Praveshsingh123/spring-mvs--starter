@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-Welcome to Spring  MVC !!! v5.0 
+Welcome to Spring  MVC !!! v6.0  hyy
 </body>
 </html>
